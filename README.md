@@ -1,3 +1,4 @@
+![Taxi Share Banner](/banner600.jpg) 
 # Taxi-Share-Client
 Are you a **travel agent** or **airline**? This application will allow you to check if :taxi: **taxi shares** are available for the passengers of a specific flight.
 
